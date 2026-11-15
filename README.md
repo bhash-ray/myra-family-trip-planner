@@ -10,3 +10,5 @@ Open the live link on a desktop browser. It shows a phone frame. India trips onl
 Demo data is labelled in the app. Prices are estimates, not quotes. Place and travel photos are AI-generated for this prototype. Destination cover photos are from Unsplash photographers; full credits to be added.
 
 Built by Bhaswati Gogoi, M.Des Game Design, NID Bangalore.
+
+Presentation: [Myra-presentation.pdf](Myra-presentation.pdf)
