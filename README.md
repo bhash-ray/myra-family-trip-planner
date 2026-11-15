@@ -1,10 +1,12 @@
-# Myra: AI family trip planner for MakeMyTrip (clickable prototype)
+# Myra: a family trip planner inside MakeMyTrip
 
-Design prototype for the Razorpay Design Builder Intern assignment. Persona: Mom planning a family trip (Dad, two kids, grandparents). India trips only.
+Interactive prototype for the Razorpay Design x NID assignment. Persona: the Family Trip Planner (Mom plans, Dad, two kids and two grandparents travel).
 
-Open `index.html` in a browser. No build step. Enable GitHub Pages (Settings, Pages, deploy from main, root) to host it.
+- **Live prototype:** https://bhash-ray.github.io/myra-family-trip-planner/
+- **Walkthrough video (with annotations):** [myra-walkthrough.mp4](myra-walkthrough.mp4)
 
-Demo data is labelled DEMO in the app. Prices and stays are estimates.
+Open the live link on a desktop browser. It shows a phone frame. India trips only, one question per screen, a WhatsApp-style family vote, day-by-day trip mode with SOS speed dial.
 
-## Credits
-Place photos are from Unsplash (see the file names in the creator's Downloads for photographer names). Icons are AI-generated with ChatGPT for this prototype.
+Demo data is labelled in the app. Prices are estimates, not quotes. Place and travel photos are AI-generated for this prototype. Destination cover photos are from Unsplash photographers; full credits to be added.
+
+Built by Bhaswati Gogoi, M.Des Game Design, NID Bangalore.
